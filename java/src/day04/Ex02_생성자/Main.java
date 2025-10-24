@@ -39,17 +39,7 @@ public class Main {
 		int scores[] = {100, 80, 70, 65, 85};
 		System.out.println("학생3 - 최종점수 : " + student3.getAverage(scores));
 		
-		
-		
+	
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 }

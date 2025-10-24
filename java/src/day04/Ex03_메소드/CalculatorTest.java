@@ -21,7 +21,7 @@ public class CalculatorTest {
 		
 		//뺄셈 메소드 호출
 		int result2 = calculator.minus(a, b);
-		System.out.println("a -b = " + result2);
+		System.out.println("a - b = " + result2);
 		
 		System.out.print("x : ");
 		double x = sc.nextDouble();		
@@ -54,11 +54,7 @@ public class CalculatorTest {
 		System.out.println("합계 : " + calculator.sum(arr));
 		System.out.println("평균 : " + calculator.avg(arr));
 		
-		
-		
-		
-		
+
 		sc.close();
 	}
-
 }

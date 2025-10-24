@@ -87,11 +87,4 @@ public class Student {
 		
 		return average;
 	}
-	
-	
-	
-	
-	
-	
-	
 }

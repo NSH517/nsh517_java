@@ -71,17 +71,4 @@ public class Calculator {
 		return avg;
 	}
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }

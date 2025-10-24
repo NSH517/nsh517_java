@@ -52,7 +52,4 @@ public class Car {
 		}
 		this.speed = speed;
 	}	
-		
-	
-	
 }

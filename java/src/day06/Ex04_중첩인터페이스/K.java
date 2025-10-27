@@ -9,6 +9,6 @@ public class K implements I.J{
 
 	@Override
 	public void methodB() {
-		System.out.println("중첩 인터페이스 - methodA()");		
+		System.out.println("중첩 인터페이스 - methodB()");		
 	}
 }

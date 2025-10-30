@@ -25,6 +25,7 @@ public class Person {
 			System.out.println(name + " 일을 하여 ");
 			System.out.println(salary + " 원을 벌었습니다.");
 			return salary;
+			
 		}
 	}
 

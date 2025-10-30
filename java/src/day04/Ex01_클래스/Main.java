@@ -1,5 +1,6 @@
 package day04.Ex01_클래스;
 
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -16,6 +17,6 @@ public class Main {
 		//메소드 호출
 		person.eat("마라탕");
 		person.work("노가다", 16);
-				
+		
 	}
 }

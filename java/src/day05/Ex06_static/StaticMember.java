@@ -37,7 +37,7 @@ public class StaticMember {
 		StaticMember s1 = new StaticMember();
 		StaticMember s2 = new StaticMember();
 		
-		int a1 = s1.a;
+		int a1 = s1.a = 20;
 		int c1 = s1.c = 10;
 		int a2 = s2.a;
 		int c2 = s2.c = 20;

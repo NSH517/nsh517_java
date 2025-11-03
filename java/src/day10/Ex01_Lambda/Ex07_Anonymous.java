@@ -50,16 +50,14 @@ public class Ex07_Anonymous {
 
 			@Override
 			public void volumeUp() {
-				void volumeUp() {
 					System.out.println("UP - 구현");
-				}	
+				
 			}
 
 			@Override
 			public void volumeDown() {
-				void volumeDown() {
 					System.out.println("Down - rngus");
-				}		
+						
 			}		
 		};
 		rc.volumeUp();

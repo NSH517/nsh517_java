@@ -1,6 +1,5 @@
 package mission;
 
-import java.awt.geom.Arc2D.Double;
 import java.util.Scanner;
 
 public class Ex05 {
@@ -18,7 +17,11 @@ public class Ex05 {
 	}
 	
 	public static void main(String[] args) {
-//do while 을 사용하여 메뉴를 불러오고 반복하기
+		
+		do {
+			menu();
+			
+		} while (condition);
 	}
 
 }
